@@ -72,10 +72,3 @@ Software Engineering, and Computer Networking. Outside of the classroom, I also 
     <img alt="GitHub Languages" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgreen1200&layout=compact&theme=tokyonight">
     <img alt="GitHub Streak" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=kgreen1200&theme=tokyonight">
 </div>
-
-## 📩 Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
