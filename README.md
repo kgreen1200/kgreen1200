@@ -9,7 +9,9 @@
   <p>Performance Analyst Intern and Computer Science Student</p>
 
   <img alt="General Kenobi" src="https://media0.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif?cid=ecf05e47htbjywvgru4qk2dlyarwzg8gg277zl9dw1wipqe7&rid=giphy.gif&ct=g">
+</div>
 
+<div align="center" id="badges">
   <!-- Badges -->
   <img alt="Times Visited" src="https://badges.pufler.dev/visits/kgreen1200/kgreen1200?style=for-the-badge">
   <img alt="Repos" src="https://badges.pufler.dev/repos/kgreen1200?style=for-the-badge">
