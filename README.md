@@ -63,7 +63,7 @@ Software Engineering, and Computer Networking. Outside of the classroom, I also 
 
 ## ⌨️ Latest Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/kgreen1200/markdown-templates/issues/1) in [kgreen1200/markdown-templates](https://github.com/kgreen1200/markdown-templates)
+1. ❗️ Opened issue [#1](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/issues/1) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
 <!--END_SECTION:activity-->
 
 ## 📈 Programming Statistics
