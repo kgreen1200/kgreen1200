@@ -18,7 +18,6 @@
   <img alt="Years Member" src="https://badges.pufler.dev/years/kgreen1200?style=for-the-badge">
   <img alt="Wakatime" src="https://wakatime.com/badge/user/c8d23037-71b0-4854-aca8-3cf1995fa6e4.svg?style=for-the-badge">
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/kgreen1200?logo=github&style=for-the-badge">
-  <img alt="Last Updated" src="https://badges.pufler.dev/updated/kgreen1200/kgreen1200?style=for-the-badge">
 </div>
 
 
