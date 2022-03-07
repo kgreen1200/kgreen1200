@@ -6,7 +6,7 @@
   <h1>Hello There! I'm Kevin! 👋🏻</h1>
 
   <!-- Description -->
-  <p>Performance Analyst Intern and Computer Science Student</p>
+  <p>Computer Science Student</p>
 
   <img alt="General Kenobi" src="https://media0.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif?cid=ecf05e47htbjywvgru4qk2dlyarwzg8gg277zl9dw1wipqe7&rid=giphy.gif&ct=g">
 </div>
