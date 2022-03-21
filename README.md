@@ -62,7 +62,7 @@ Software Engineering, and Computer Networking. Outside of the classroom, I also 
 
 ## ⌨️ Latest Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kgreen1200/test-repo/pull/1) in [kgreen1200/test-repo](https://github.com/kgreen1200/test-repo)
+1. 🎉 Merged PR [#5](https://github.com/kgreen1200/test-repo/pull/5) in [kgreen1200/test-repo](https://github.com/kgreen1200/test-repo)
 <!--END_SECTION:activity-->
 
 ## 📈 Programming Statistics
