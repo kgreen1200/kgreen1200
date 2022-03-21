@@ -62,7 +62,7 @@ Software Engineering, and Computer Networking. Outside of the classroom, I also 
 
 ## ⌨️ Latest Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/kgreen1200/python-project-template/issues/2) in [kgreen1200/python-project-template](https://github.com/kgreen1200/python-project-template)
+1. ❌ Closed PR [#3](https://github.com/kgreen1200/python-project-template/pull/3) in [kgreen1200/python-project-template](https://github.com/kgreen1200/python-project-template)
 <!--END_SECTION:activity-->
 
 ## 📈 Programming Statistics
