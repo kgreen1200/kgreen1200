@@ -62,7 +62,7 @@ Software Engineering, and Computer Networking. Outside of the classroom, I also 
 
 ## ⌨️ Latest Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/32) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
+1. 🎉 Merged PR [#33](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/33) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
 <!--END_SECTION:activity-->
 
 ## 📈 Programming Statistics
