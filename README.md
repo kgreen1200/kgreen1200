@@ -19,17 +19,6 @@ I'm a fourth-year Honor's Computer Science student with a concentration in Softw
 
 ## ⌨️ Latest Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/36) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-2. ❗️ Closed issue [#24](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/issues/24) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-3. ❗️ Opened issue [#35](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/issues/35) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-4. 🎉 Merged PR [#33](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/33) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-5. 🎉 Merged PR [#32](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/32) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-6. 🎉 Merged PR [#31](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/31) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-7. ❗️ Closed issue [#13](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/issues/13) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-8. ❗️ Closed issue [#22](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/issues/22) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-9. 🎉 Merged PR [#30](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/pull/30) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-10. ❗️ Closed issue [#28](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool/issues/28) in [comp195/senior-project-spring-2022-blueprint-automation-tool](https://github.com/comp195/senior-project-spring-2022-blueprint-automation-tool)
-<!--END_SECTION:activity-->
 
 ## 🖥️ Tools & Technologies
 
