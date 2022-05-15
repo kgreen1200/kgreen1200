@@ -9,7 +9,6 @@
   ![Times Visited](https://badges.pufler.dev/visits/kgreen1200/kgreen1200?style=for-the-badge)
   ![Repos](https://badges.pufler.dev/repos/kgreen1200?style=for-the-badge)
   ![Years](https://badges.pufler.dev/years/kgreen1200?style=for-the-badge)
-  ![Wakatime](https://wakatime.com/badge/user/c8d23037-71b0-4854-aca8-3cf1995fa6e4.svg?style=for-the-badge)
 
 </div>
 
